@@ -1,6 +1,6 @@
 import math
 
-
+# merge sort alogorithm
 def merge(list, p, q, r):
     L = list[p:q + 1]
     R = list[q + 1:r + 1]
